@@ -3,7 +3,7 @@ Rutgers Data Science
 
 Project Requirements
  
-Use Pandas to clean and format your dataset(s).
+Use Pandas to clean and format your dataset(s).\
 Create a Jupyter Notebook describing the data exploration and cleanup process.
 Create a Jupyter Notebook illustrating the final data analysis.
 Use Matplotlib to create a total of 6–8 visualizations of your data (ideally, at least 2 per ”question” you ask of your data).
