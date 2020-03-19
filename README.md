@@ -11,10 +11,10 @@ Save PNG images of your visualizations to distribute to the class and instructio
 and for inclusion in your presentation.\
 (Optional) Use at least one API, if you can find an API with data pertinent to your primary research questions.\
 Create a write-up summarizing your major findings. This should include a heading for each “question” you asked of your data\
-and a short description of your findings and any relevant plots.\
+and a short description of your findings and any relevant plots.
 
  
-Presentation Requirements\
+Presentation Requirements
 
 You will also be responsible for preparing a formal, 10-minute presentation that covers: \
 Questions you found interesting and what motivated you to answer them\
@@ -22,4 +22,4 @@ Where and how you found the data you used to answer these questions\
 The data exploration and cleanup process (accompanied by your Jupyter Notebook)\
 The analysis process (accompanied by your Jupyter Notebook)\
 Your conclusions, which should include a numerical summary and visualizations of that\
-summary The implications of your findings: what do your findings mean?\
+summary The implications of your findings: what do your findings mean?
