@@ -1,0 +1,13 @@
+﻿Country Name,Country Code,Series Name,Series Code,2006 [YR2006],2007 [YR2007],2008 [YR2008],2009 [YR2009],2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014]
+South Africa,ZAF,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.23562031,26.5262607,28.2842626,27.58361623,27.38133554,26.94253995,26.68106047,26.66809154,26.5451353
+South Africa,ZAF,"Industry (including construction), value added (annual % growth)",NV.IND.TOTL.KD.ZG,4.050266666,4.124322925,0.123391173,-5.99531244,4.706813552,1.411876586,0.434814384,2.174949964,0.033481811
+South Africa,ZAF,"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,1.00156E+11,1.04287E+11,1.04416E+11,98155685294,1.02776E+11,1.04227E+11,1.0468E+11,1.06957E+11,1.06992E+11
+South Africa,ZAF,"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,7.33265E+11,7.63507E+11,7.64449E+11,7.18618E+11,7.52442E+11,7.63065E+11,7.66383E+11,7.83052E+11,7.83314E+11
+South Africa,ZAF,"Industry (including construction), value added (current LCU)",NV.IND.TOTL.CN,4.82578E+11,5.59572E+11,6.70072E+11,6.91708E+11,7.52441E+11,8.14651E+11,8.68162E+11,9.44044E+11,1.01014E+12
+South Africa,ZAF,"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,71266041497,79423737474,81110734518,81629984540,1.02776E+11,1.12194E+11,1.05746E+11,97826397639,93148094270
+South Africa,ZAF,"Industry (including construction), value added per worker (constant 2010 US$)",NV.IND.EMPL.KD,26294.3017,26646.30016,26872.41225,26575.82562,29652.03056,29884.56849,30252.45144,29897.06057,29540.6019
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,,,,
+Last Updated: 02/27/2020,,,,,,,,,,,,
