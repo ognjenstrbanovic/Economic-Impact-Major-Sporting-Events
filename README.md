@@ -20,4 +20,5 @@ I wanted to highlight my end of the presentation below through images of the sli
 ![Infrastructure Slide 2](https://github.com/ognjenstrbanovic/Project-1/blob/master/Ognjen%20%C5%A0trbanovi%C4%87/PowerPoint%20Screenshots/Infrastructure%20Part%20II.jpg?raw=true)  
 
 Finally, I wanted to thank you for reading this in the same fashion that our group had thanked our class!  
+
 ![Thank You Slide](https://github.com/ognjenstrbanovic/Project-1/blob/master/Ognjen%20%C5%A0trbanovi%C4%87/PowerPoint%20Screenshots/Thank%20You%20Slide.jpg?raw=true)
