@@ -21,4 +21,8 @@ You will also be responsible for preparing a formal, 10-minute presentation that
 - Your conclusions, which should include a numerical summary and visualizations of that summary  
 - The implications of your findings: what do your findings mean?
 
+![Infrastructure Slide 1](https://github.com/ognjenstrbanovic/Project-1/blob/master/Ognjen%20%C5%A0trbanovi%C4%87/PowerPoint%20Screenshots/Infrastructure%20Part%20I.jpg?raw=true)  
+
+![Infrastructure Slide 2](https://github.com/ognjenstrbanovic/Project-1/blob/master/Ognjen%20%C5%A0trbanovi%C4%87/PowerPoint%20Screenshots/Infrastructure%20Part%20II.jpg?raw=true)  
+
 ![Thank You Slide](https://github.com/ognjenstrbanovic/Project-1/blob/master/Ognjen%20%C5%A0trbanovi%C4%87/PowerPoint%20Screenshots/Thank%20You%20Slide.jpg?raw=true)
