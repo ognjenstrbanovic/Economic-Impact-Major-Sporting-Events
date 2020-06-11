@@ -6,7 +6,7 @@ The requirements were as follows:
 
 > Use Pandas to clean and format your dataset(s).  
 > Create a Jupyter Notebook describing the data exploration and cleanup process, and illustrating the final data analysis.  
-> Use Matplotlib to create a total of 6–8 visualizations of your data (ideally, at least 2 per ”question” you ask of your data).  
+> Use Matplotlib to create at least 2 visualizations per ”question” you ask of your data).  
 > Create a write-up summarizing your major findings. This should include a heading for each “question” you asked of your data
 and a short description of your findings and any relevant plots.  
 
