@@ -1,4 +1,4 @@
-# Project-1
+# Economic-Impact-of-Major-Sporting-Events
 ![Slide 1](https://github.com/ognjenstrbanovic/Project-1/blob/master/Ognjen%20%C5%A0trbanovi%C4%87/PowerPoint%20Screenshots/Slide%201.jpg?raw=true)  
 
 You can see above the general topic of "Project 1", a project that lasted nearly half of a month and that I considered myself to be a big part of.  
